@@ -1,0 +1,8 @@
+/etc/debian_version
+/etc/dpkg/origins/debian
+/etc/dpkg/origins/ubuntu
+/etc/dpkg/origins/peppermint
+/etc/host.conf
+/etc/issue
+/etc/issue.net
+/etc/lsb-release
