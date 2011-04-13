@@ -7,7 +7,7 @@ Standards-Version: 3.7.2
 
 Package: base-files
 Provides: base
-Architecture: any
+Architecture: all
 Pre-Depends: awk
 Depends: base-passwd (>= 2.0.3.4), libpam-modules (>= 0.79-3ubuntu3)
 Essential: yes
